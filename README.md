@@ -1,9 +1,16 @@
 # LITA_Class_Documentation
-m
+
 My first project as student of Data Analysis with The Incubator Hub
 
+Project Overview
+Data Source
+Tools
+Data Preparation
+Data Analysis
+
+
 ### Project Overview
-This project is the combination of works done with collections of data /tables during our learning period at the Incubator Hub
+This project is the combination of works done with collections of data /tables provided by our instructor during our learning period at the Incubator Hub
 
 ### Data Source
 LITA Incubator Hub
@@ -23,7 +30,9 @@ LITA Incubator Hub
 - With Excel formular
 - Pivoting  for Decision making
 
-### Data Analysis: some of the lines of code that was used 
+### Data Analysis
+some of the lines of code that was used 
+
 ```SQL
 Select * from employee
 Where StaffId = AB213
